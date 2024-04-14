@@ -39,17 +39,5 @@ function calculate(){
       })
 }
 
-/*function cal(){
 
-    let n1 = document.getElementById('n1');
-    let n2 = document.getElementById('n2');
-    let cal = document.getElementById('cal');
-    cal.addEventListener('click' , function(){
-      n1.value = '';
-      n2.value = '';
-    })
-  
-}
-
-*/
 
